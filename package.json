@@ -1,0 +1,30 @@
+{
+  "name": "set-microtask",
+  "version": "1.0.0",
+  "description": "queueMicrotask with setTimeout API",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dy/set-microtask.git"
+  },
+  "keywords": [
+    "set-timeout",
+    "queueMicrotask"
+  ],
+  "author": "Dmitry Yv <df.creative@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dy/set-microtask/issues"
+  },
+  "homepage": "https://github.com/dy/set-microtask#readme",
+  "dependencies": {
+    "queue-microtask": "^1.1.2"
+  },
+  "devDependencies": {
+    "esm": "^3.2.25",
+    "tape": "^4.11.0"
+  }
+}
