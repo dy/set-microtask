@@ -30,7 +30,7 @@ clearMicrotask(id)
 
 ## See also
 
-* [wait-please](https://github.com/dy/wait-please) - waiters bar.
+* [wait-please](https://github.com/dy/wait-please) - await helpers.
 
 ## License
 
